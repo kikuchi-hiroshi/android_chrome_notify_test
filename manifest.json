@@ -1,0 +1,13 @@
+{
+  "name": "(Webアプリの名前)",
+  "short_name": "(Webアプリの短い名前(アプリアイコン用; パスのみでOK)",
+  "icons": [{
+    "src": "(アプリアイコン画像のURL)",
+    "sizes": "256x256",
+    "type": "image/png"
+  }],
+  "start_url": "(WebアプリのURL)",
+  "display": "standalone",
+  "gcm_sender_id": "(Google Developers ConsoleのProject Number)",
+  "gcm_user_visible_only": true
+}
